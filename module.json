@@ -1,0 +1,14 @@
+{
+    "name": "Mymodul",
+    "alias": "mymodul",
+    "description": "",
+    "keywords": [],
+    "active": 1,
+    "order": 0,
+    "providers": [
+        "Modules\\Mymodul\\Providers\\MymodulServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
