@@ -1,10 +1,10 @@
 {
-    "name": "nwidart/mymodul",
+    "name": "laravelnwidart/mymodul",
     "description": "",
     "authors": [
         {
-            "name": "Nicolas Widart",
-            "email": "n.widart@gmail.com"
+            "name": "Denni Septiyaji",
+            "email": "denni.septiyaji@gmail.com"
         }
     ],
     "extra": {
